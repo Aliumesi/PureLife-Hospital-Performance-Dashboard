@@ -102,6 +102,8 @@ This dashboard helps management monitor hospital performance at a glance. It sup
 ## PureLife Patients Dashboard
 
 The PureLife Patients Dashboard provides a detailed patient-level view of the hospital data. It contains a structured table showing individual patient records and related hospital information.
+
+
 ![PureLife Patient Records Dashboard](Patients.jpg)
 ### Key Fields Displayed
 
