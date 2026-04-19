@@ -1,10 +1,10 @@
 # PureLife-Hospital-Performance-Dashboard
 The PureLife General Overview Dashboard summarizes hospital performance and patient activity by showing key metrics such as revenue, admissions, length of stay, mortality rate, insurance coverage, diagnosis trends, visit types, and outcomes to support better healthcare planning and decision-making.
-Yes — that was in Markdown.
+
 
 Here it is again:
 
-```markdown
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -14,9 +14,7 @@ Here it is again:
 5. [PureLife Patients Dashboard](#purelife-patients-dashboard)
 6. [Recommendation](#recommendation)
 7. [Conclusion](#conclusion)
-```
 
-```markdown
 # PureLife Hospital Analytics Dashboard Project Writeup
 
 ## Introduction
