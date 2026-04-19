@@ -98,7 +98,8 @@ The dashboard includes the following visuals:
 ### Business Value
 
 This dashboard helps management monitor hospital performance at a glance. It supports decision-making by showing where revenue is generated, how patients are admitted, what conditions are most common, and what outcomes are being recorded. It is especially useful for executive reporting, performance tracking, and operational planning.
-
+Dashboard.jpg
+Patients.jpg
 ## PureLife Patients Dashboard
 
 The PureLife Patients Dashboard provides a detailed patient-level view of the hospital data. It contains a structured table showing individual patient records and related hospital information.
