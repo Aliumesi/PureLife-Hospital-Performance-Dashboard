@@ -7,8 +7,6 @@ Here it is again:
 ```markdown
 ## Table of Contents
 
-## Table of Contents
-
 1. [Introduction](#introduction)
 2. [Problem Statement](#problem-statement)
 3. [Project Overview](#project-overview)
