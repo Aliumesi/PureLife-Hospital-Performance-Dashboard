@@ -47,7 +47,8 @@ The PureLife Hospital Analytics Dashboard was built to provide both high-level a
 The Hospital Performance Dashboard gives an executive summary of key hospital metrics, trends, and outcomes, while the Patients Dashboard provides a detailed table view of individual patient records, including demographic, admission, billing, and insurance information.
 
 The dashboard includes filters for insurance provider, department, and patient ID, allowing users to interact with the report and focus on specific areas of interest. This makes the dashboard useful for both strategic management reporting and operational review.
-## Dashboard Preview
+<img width="602" height="360" alt="image" src="https://github.com/user-attachments/assets/73a797f2-de28-4849-8eef-e66c8d1de511" />
+
 
 ![PureLife Hospital Dashboard](https://raw.githubusercontent.com/Aliumesi/PureLife-Hospital-Performance-Dashboard/main/PURE%20LIFE%20.jpg)
 ## Detailed Analysis Writeup
