@@ -7,13 +7,15 @@ Here it is again:
 ```markdown
 ## Table of Contents
 
-1. Introduction  
-2. Problem Statement  
-3. Project Overview  
-4. PureLife Hospital Performance Dashboard  
-5. PureLife Patients Dashboard  
-6. Recommendation  
-7. Conclusion
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Problem Statement](#problem-statement)
+3. [Project Overview](#project-overview)
+4. [PureLife Hospital Performance Dashboard](#purelife-hospital-performance-dashboard)
+5. [PureLife Patients Dashboard](#purelife-patients-dashboard)
+6. [Recommendation](#recommendation)
+7. [Conclusion](#conclusion)
 ```
 
 ```markdown
