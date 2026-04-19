@@ -49,7 +49,7 @@ The Hospital Performance Dashboard gives an executive summary of key hospital me
 The dashboard includes filters for insurance provider, department, and patient ID, allowing users to interact with the report and focus on specific areas of interest. This makes the dashboard useful for both strategic management reporting and operational review.
 ## Dashboard Preview
 
-![PureLife Hospital Dashboard](PURE%20LIFE%20.jpg)
+![PureLife Hospital Dashboard](https://raw.githubusercontent.com/Aliumesi/PureLife-Hospital-Performance-Dashboard/main/PURE%20LIFE%20.jpg)
 ## Detailed Analysis Writeup
 
 The dashboard provides a broad view of PureLife Hospital’s operational and financial performance. From the overview page, the hospital recorded a total revenue of approximately **£94.03M**, with **500 total admissions** captured in the report. The average length of stay is **3.5 days**, suggesting that patients typically spend a moderate number of days in care before discharge or transfer.
